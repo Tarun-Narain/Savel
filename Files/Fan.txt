@@ -1,0 +1,9 @@
+Product Name :    Cieling Fan
+Voltage rating :  220v
+65
+Product ID :      Khaitan
+GPIO PIN :        GPIO_00 (raspberry pi 3)
+5
+300
+7
+989

@@ -1,0 +1,8 @@
+Tube Light Dining hall
+Voltage rating :  220v
+55
+Product ID :      Usha Led
+GPIO PIN :        GPIO_01 (raspberry pi 3)
+5
+10000
+12

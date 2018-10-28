@@ -1,0 +1,9 @@
+Product Name :    Xiomi Charger
+Voltage rating :  220v
+2
+Product ID :      Redmi Charger
+GPIO PIN :        GPIO_03 (raspberry pi 3)
+010
+300
+010
+989
